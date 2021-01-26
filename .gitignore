@@ -1,0 +1,13 @@
+# .gitignore
+env
+*.pyc                       
+__pycache__          
+*~                                                         
+*.sqlite3              
+# /static
+*.DS_Store
+geckodriver.log
+*bak
+#sublime project files
+*.sublime-project
+*.sublime-workspace
